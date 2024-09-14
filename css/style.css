@@ -1698,8 +1698,9 @@ h2.agileits-title {
 
 .menu ul li a {
     display: block;
-    color: black;
+    color: white;
     text-decoration: none;
+    font-size: 18px;
 }
 
 .menu ul li a:hover {
